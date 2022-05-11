@@ -11,9 +11,9 @@ abra um terminal no Windows<br/>
 tecla windows+R <br/>
 Digite CMD  Ok <br/>
 crie os diretorio<br/>
-mkdir  %userprofile%\Projetos1\docker<br/>
+mkdir  %userprofile%\Projetos\docker<br/>
 entre nele <br/>
-cd  %userprofile%\Projetos1\docker<br/><br/>
+cd  %userprofile%\Projetos\docker<br/><br/>
 
 git clone https://github.com/mrlsoares/postgres10.git bases<br/><br/>
 
