@@ -8,7 +8,8 @@ instale o docker
 <br/>
 Faça Clone do projeto para diretorio bases<br/>
 abra um terminal no Windows<br/>
-tecla windows+R 
+tecla windows+R <br/>
+Digite CMD  Ok <br/>
 crie os diretorio<br/>
 mkdir  %userprofile%\Projetos1\docker<br/>
 entre nele <br/>
