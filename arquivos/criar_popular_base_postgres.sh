@@ -4,6 +4,8 @@ dir_base_origem_DLL=/docker/importar/DDL
 dir_base_origem_DUMP=/docker/importar/DUMP
 dir_base_destino_DDL=/docker/importados/DDL
 dir_base_destino_DUMP=/docker/importados/DUMP
+
+echo "Base "$POSTGRES_DB
 psql -U postgres -d $POSTGRES_DB -f criarEsquemasnopostgres.sql
 # procura os arquivos nao modificados ha mais de 365 dias em
 # $dir_base_origem e move-os para $dir_base_destino

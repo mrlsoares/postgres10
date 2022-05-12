@@ -28,5 +28,13 @@ Grave as alteraçoes precionando as teclas CTRL+S <br/>
 crie uma rede para uso do docker<br/>
 docker network create ansata_net<br/><br/>
 para subir o serviço<br/>
-docker-compose up -d
-
+docker-compose up -d <br/> <br/>
+execute o programa <br/>
+ DBIsamDump.exe <br/>
+ gere o DDL e o DUMP <br/><br/>
+crie uma base de dados com o nome <br/>
+comando para acessar o container postgres<br/>
+docker exec -ti postgresql-postgres-10-1 bash<br/><br/>
+dentro do conteiner execute<br/>
+ cd /docker<br/><br/>
+ ./criar_popular_base_postgres.sh <br/>
