@@ -1,4 +1,4 @@
-# docker-compose postgres13.4 alpine
+# docker-compose postgres10.20 alpine
 <h2>Docker postgres</h> 
 <br/>
 <p>
