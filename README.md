@@ -32,7 +32,7 @@ docker-compose up -d <br/> <br/>
 execute o programa <br/>
  DBIsamDump.exe <br/>
  gere o DDL e o DUMP <br/><br/>
-crie uma base de dados com o nome <br/>
+
 comando para acessar o container postgres<br/>
 docker exec -ti postgresql-postgres-10-1 bash<br/><br/>
 dentro do conteiner execute<br/>
