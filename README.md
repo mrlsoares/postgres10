@@ -1,6 +1,11 @@
 # docker-compose postgres10.20 alpine
 <h2>Docker postgres</h> 
 <br/>
+<p> Faça o Download  <a href="https://gitforwindows.org/">Git para Windows</a><br/> 
+   execute o instalador 
+<br/>
+ 
+<p/>
 <p>
 Faça Download clique no link  <a href="https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe">Docker Destop Windows</a>
 instale o docker
